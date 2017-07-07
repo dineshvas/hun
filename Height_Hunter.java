@@ -5,7 +5,7 @@ public class Height_Hunter {
 		Scanner sc=new Scanner(System.in);
 	System.out.println("Enter 50 students height:");
 	float h[]=new float[50];
-	for(int i=0;i<10;i++){
+	for(int i=0;i<50;i++){
 		h[i]=sc.nextFloat();
 	} 
 	float temp=0;
