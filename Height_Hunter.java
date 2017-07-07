@@ -10,8 +10,8 @@ public class Height_Hunter {
 	} 
 	float temp=0;
 	
-	for(int i=0;i<10;i++){
-		for(int j=i+1;j<10;j++){
+	for(int i=0;i<50;i++){
+		for(int j=i+1;j<50;j++){
 			if(h[i]<h[j]){
 				temp=h[i];
 				h[i]=h[j];
