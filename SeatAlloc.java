@@ -8,7 +8,7 @@ public class SeatAlloc{
 				a[i][j]="S"+i+j;
 			}
 		}
-		System.out.println("WELCOME TO MEIYARASU TRANSPORT");
+		System.out.println("WELCOME TO BUS TRANSPORT");
 	String seatnumber="";
     
 	//System.out.println(column);
